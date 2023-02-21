@@ -14,6 +14,13 @@ config/name="Godot Hit Project"
 run/main_scene="res://KinematicBody2D.tscn"
 config/icon="res://icon.png"
 
+[display]
+
+window/size/width=320
+window/size/height=180
+window/stretch/mode="2d"
+window/stretch/aspect="keep"
+
 [gui]
 
 common/drop_mouse_on_gui_input_disabled=true

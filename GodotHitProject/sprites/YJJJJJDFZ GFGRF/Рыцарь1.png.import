@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/REAL фон.png-9ed0e7c7d38cc234855b8f233f08e611.stex"
+path="res://.import/Рыцарь1.png-756a372610bf2e137ec01fb905de1525.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/YJJJJJDFZ GFGRF/REAL фон.png"
-dest_files=[ "res://.import/REAL фон.png-9ed0e7c7d38cc234855b8f233f08e611.stex" ]
+source_file="res://sprites/YJJJJJDFZ GFGRF/Рыцарь1.png"
+dest_files=[ "res://.import/Рыцарь1.png-756a372610bf2e137ec01fb905de1525.stex" ]
 
 [params]
 
